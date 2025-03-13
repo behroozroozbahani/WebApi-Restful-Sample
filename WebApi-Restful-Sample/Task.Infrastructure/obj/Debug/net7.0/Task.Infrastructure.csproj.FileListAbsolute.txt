@@ -1,0 +1,23 @@
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.deps.json
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.csproj.AssemblyReference.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.AssemblyInfoInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.AssemblyInfo.cs
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\refint\Task.Infrastructure.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\ref\Task.Infrastructure.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.deps.json
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\bin\Debug\net7.0\Task.Infrastructure.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.AssemblyInfo.cs
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\refint\Task.Infrastructure.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\Task.Infrastructure.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Infrastructure\obj\Debug\net7.0\ref\Task.Infrastructure.dll

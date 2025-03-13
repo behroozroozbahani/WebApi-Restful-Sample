@@ -1,0 +1,17 @@
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Application.deps.json
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Application.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Application.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Common.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Domain.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Common.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\bin\Debug\net8.0\Task.Domain.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfo.cs
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.App.9AA99ABD.Up2Date
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\refint\Task.Application.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\Task.Application.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Application\obj\Debug\net8.0\ref\Task.Application.dll

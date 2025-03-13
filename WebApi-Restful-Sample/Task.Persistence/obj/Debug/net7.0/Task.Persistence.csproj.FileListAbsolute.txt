@@ -1,0 +1,42 @@
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.deps.json
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Application.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Domain.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Application.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Domain.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.AssemblyReference.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.AssemblyInfoInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.AssemblyInfo.cs
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.CoreCompileInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.CopyComplete
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\refint\Task.Persistence.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\ref\Task.Persistence.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Common.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Common.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.runtimeconfig.json
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.genruntimeconfig.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.deps.json
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.runtimeconfig.json
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Persistence.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Application.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Common.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Domain.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Application.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Domain.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\bin\Debug\net7.0\Task.Common.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.AssemblyInfo.cs
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.csproj.CopyComplete
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\refint\Task.Persistence.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\Task.Persistence.genruntimeconfig.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Persistence\obj\Debug\net7.0\ref\Task.Persistence.dll

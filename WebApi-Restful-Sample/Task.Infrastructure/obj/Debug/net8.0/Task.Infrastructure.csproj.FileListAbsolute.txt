@@ -1,0 +1,11 @@
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.deps.json
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\bin\Debug\net8.0\Task.Infrastructure.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.AssemblyInfo.cs
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\refint\Task.Infrastructure.dll
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\Task.Infrastructure.pdb
+D:\Training\Real Projects\Web-API\WebApi-Restful-Task\Task.Infrastructure\obj\Debug\net8.0\ref\Task.Infrastructure.dll
