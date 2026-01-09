@@ -1,0 +1,23 @@
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.deps.json
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.csproj.AssemblyReference.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfoInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfo.cs
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.csproj.CoreCompileInputs.cache
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\refint\Task.Domain.dll
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.pdb
+D:\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\ref\Task.Domain.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.deps.json
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\bin\Debug\net7.0\Task.Domain.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.AssemblyInfo.cs
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\refint\Task.Domain.dll
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\Task.Domain.pdb
+D:\Projects\Real Projects\Web API\Main\Noyan Afzar Atiban Task\NoyanAfzarAtiban-Task\Task.Domain\obj\Debug\net7.0\ref\Task.Domain.dll
